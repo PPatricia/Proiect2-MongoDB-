@@ -1,2 +1,3 @@
+#Pentru a putea rula proiectul este nevoie de o baza de date numita "images" cu colectia "images" care are campurile:_id,title,image
 { "_id" : { "$oid" : "5e888e925728000089003a65" }, "title" : "Ana", "image" : "./images/3.jpg" }
 { "_id" : { "$oid" : "5e888f285728000089003a66" }, "title" : "Association", "image" : "./images/1.jpg" }
